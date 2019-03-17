@@ -1,0 +1,23 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/next": "^8.0.1",
+    "@types/react": "^16.8.8",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-flip-move": "^3.0.3"
+  }
+}
